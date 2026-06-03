@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="113.93"
+          width="113.55"
           height="8"
           fill="#3D6117"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="113.93"
+          x="113.55"
           y="0"
-          width="75.56"
+          width="76.05"
           height="8"
           fill="#3572A5"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="189.49"
+          x="189.6"
           y="0"
-          width="26.19"
+          width="26"
           height="8"
           fill="#239dad"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="215.68"
+          x="215.6"
           y="0"
-          width="18.58"
+          width="18.72"
           height="8"
           fill="#e34c26"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.26"
+          x="234.32"
           y="0"
-          width="17.94"
+          width="17.88"
           height="8"
           fill="#ff0000"
         />
@@ -180,7 +180,7 @@
           data-testid="lang-progress"
           x="242.2"
           y="0"
-          width="17.81"
+          width="17.8"
           height="8"
           fill="#89e051"
         />
@@ -191,35 +191,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX 45.57%
+        TeX 45.42%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 30.22%
+        Python 30.42%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#239dad" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Typst 10.48%
+        Typst 10.40%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 7.43%
+        HTML 7.49%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#ff0000" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Asymptote 3.18%
+        Asymptote 3.15%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
