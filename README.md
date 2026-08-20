@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I am [Evan Chen](https://web.evanchen.cc/), a number theory PhD and and math olympiad coach. You can find me in the following places:
+I am [Evan Chen](https://web.evanchen.cc/), a number theory PhD and math olympiad coach. You can find me in the following places:
 
 <a href="https://web.evanchen.cc"> <img src="https://web.evanchen.cc/static/icons/android-chrome-192x192.png" height="48"></a>
 <a href="https://web.evanchen.cc/contact.html"> <img src="https://web.evanchen.cc/static/icons/social-mail.png" height="48"></a>
