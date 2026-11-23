@@ -3,12 +3,12 @@
 I am [Evan Chen](https://web.evanchen.cc/), a number theory PhD and math olympiad coach. You can find me in the following places:
 
 <a href="https://web.evanchen.cc"> <img src="https://web.evanchen.cc/static/icons/android-chrome-192x192.png" height="48"></a>
-<a href="https://web.evanchen.cc/contact.html"> <img src="https://web.evanchen.cc/static/icons/social-mail.png" height="48"></a>
-<a href="https://blog.evanchen.cc"> <img src="https://web.evanchen.cc/static/icons/social-wordpress.png" height="48"></a>
-<a href="https://www.instagram.com/evanchen.cc/"> <img src="https://web.evanchen.cc/static/icons/social-instagram.png" height="48"></a>
-<a href="https://youtube.com/c/vEnhance"> <img src="https://web.evanchen.cc/static/icons/social-youtube.png" height="48"></a>
-<a href="https://twitch.tv/vEnhance"> <img src="https://web.evanchen.cc/static/icons/social-twitch.png" height="48"></a>
-<a href="https://web.evanchen.cc/discord.html"> <img src="https://web.evanchen.cc/static/icons/social-discord.png" height="48"></a>
+<a href="https://web.evanchen.cc/contact.html"> <img src="https://web.evanchen.cc/static/icons/social-mail.webp" height="48"></a>
+<a href="https://blog.evanchen.cc"> <img src="https://web.evanchen.cc/static/icons/social-wordpress.webp" height="48"></a>
+<a href="https://www.instagram.com/evanchen.cc/"> <img src="https://web.evanchen.cc/static/icons/social-instagram.webp" height="48"></a>
+<a href="https://youtube.com/c/vEnhance"> <img src="https://web.evanchen.cc/static/icons/social-youtube.webp" height="48"></a>
+<a href="https://twitch.tv/vEnhance"> <img src="https://web.evanchen.cc/static/icons/social-twitch.webp" height="48"></a>
+<a href="https://web.evanchen.cc/discord.html"> <img src="https://web.evanchen.cc/static/icons/social-discord.webp" height="48"></a>
 
 I'm also an amateur programmer, I guess.
 
